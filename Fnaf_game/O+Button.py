@@ -2,7 +2,7 @@ import pygame
 import os
 
 # Set the new working directory
-new_directory = "D:\Documents\mé dokumenty\Štola\Programování\Fnaf\Fnaf_resources"
+new_directory = "../Fnaf_resources"
 os.chdir(new_directory)
 pygame.init()
 
